@@ -4,7 +4,7 @@
       "label": "Canada",
       "id": "CAD",
       "value": "CAD",
-      "flag": "https://www.countryflags.io/ca/flat/64.png"
+      "flag": "https://www.worldometers.info/img/flags/ca-flag.gif"
     },
     {
       "label": "Hong Kong",
@@ -71,7 +71,7 @@
       "label": "Brazil",
       "id": "BRL",
       "value": "BRL",
-      "flag": "https://www.countryflags.io/br/flat/64.png"
+      "flag": "https://www.worldometers.info/img/flags/br-flag.gif"
     },
     {
       "label": "Russian Federation",
