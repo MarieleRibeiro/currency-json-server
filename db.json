@@ -37,12 +37,6 @@
       "flag": "https://www.worldometers.info/img/flags/as-flag.gif"
     },
     {
-      "label": "RON",
-      "id": "Romania",
-      "value": "Romania",
-      "flag": "https://www.worldometers.info/img/flags/ro-flag.gif"
-    },
-    {
       "label": "Sweden",
       "id": "SEK",
       "value": "SEK",
